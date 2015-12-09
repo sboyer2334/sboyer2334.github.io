@@ -12,6 +12,14 @@
 /db/*.sqlite3-journal
 
 # Ignore all logfiles and tempfiles.
+<<<<<<< HEAD
 /log/*
 !/log/.keep
 /tmp
+=======
+/log/*.log
+/tmp
+
+# Ignore ruby-version
+/.ruby-version
+>>>>>>> f0606e461ae82d8a495bbc373e0d90e8d59f3834

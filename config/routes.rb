@@ -1,11 +1,20 @@
 Rails.application.routes.draw do
+<<<<<<< HEAD
   get 'home/index'
+=======
+  resources :widgets
+>>>>>>> f0606e461ae82d8a495bbc373e0d90e8d59f3834
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
   # You can have the root of your site routed with "root"
+<<<<<<< HEAD
   # root 'welcome#index'
+=======
+
+  root 'welcome#index'
+>>>>>>> f0606e461ae82d8a495bbc373e0d90e8d59f3834
 
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'
