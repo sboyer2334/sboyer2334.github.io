@@ -79,3 +79,5 @@ end
 # gem 'debugger', group: [:development, :test]
 >>>>>>> f0606e461ae82d8a495bbc373e0d90e8d59f3834
 
++source 'https://rubygems.org'
++gem 'github-pages'
