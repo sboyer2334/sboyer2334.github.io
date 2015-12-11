@@ -7,6 +7,8 @@
  * URL: http://blacktie.co
  */
  
+
+ 
 .font-thin {
 	font-family: "Titillium Web", sans-serif;
 	font-weight: 200;
@@ -24,7 +26,7 @@
 
 * {
 	position: relative;
-	background-color: #999999;
+	background-color: #999;
 }
 
 .breaker {
@@ -40,7 +42,7 @@ html, body {
 }
 
 body {
-	background-color: #2f2f2f;
+	background-color: #000000;
 	font-family: "Titillium Web", sans-serif;
 	font-weight: normal;
 	overflow-x: hidden;
@@ -119,23 +121,23 @@ body {
 
 #special-active-menu-1,
 #special-active-menu-6 {
-	background-color: #4e4e4e !important;
+	background-color: #0FC !important;
 }
 
 #special-active-menu-2 {
-	background-color: #1abc9c !important;
+	background-color: #0FC !important;
 }
 
 #special-active-menu-3 {
-	background-color: #e74c3c !important;
+	background-color: #0FC !important;
 }
 
 #special-active-menu-4 {
-	background-color: #34495e !important;
+	background-color: #0FC !important;
 }
 
 #special-active-menu-5 {
-	background-color: #e67e22 !important;
+	background-color: #0FC !important;
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
@@ -305,14 +307,14 @@ body {
 }
 
 #slide-2 {
-	background-color: #00CC99;
+	background-color: #000000;
 	color: #e4e6e5;
 	padding-top: 90px;
 }
 
 	.title-row {
 		font-size: 45px;
-		padding-bottom: 50px;
+		padding-bottom: 100px;
 	}
 	
 	.line-row .hr {
@@ -360,7 +362,7 @@ body {
 @media (max-width: 767px) {
 	.title-row {
 		font-size: 34px;
-		padding-bottom: 33px;
+		padding-bottom: 4px;
 	}
 	
 	.subtitle-row {
@@ -384,7 +386,7 @@ body {
 }
 
 #slide-3 {
-	background-color: #1abc9c;
+	background-color: #000000;
 	color: #e4e6e5;
 	padding-top: 90px;
 }
@@ -463,7 +465,7 @@ body {
 }
 
 #slide-4 {
-	background-color: #34495e;
+	background-color: #000000;
 	color: #e4e6e5;
 	padding-top: 90px;
 }
@@ -477,14 +479,15 @@ body {
 #slide-5 {
 	background-color: #000000;
 	color: #e4e6e5;
-	padding-top: 90px;
+	padding-top: 190px;
+	padding-bottom: 300px;
 }
 
 #slide-6 {
-	background-color: #2f2f2f;
+	background-color: #999999;
 	color: #e4e6e5;
-	padding-bottom: 350px;
-	padding-top: 90px;
+	padding-bottom: 0px;
+	padding-top: 5px;
 }
 
 @media (max-width: 767px) {
@@ -540,7 +543,7 @@ body {
 	}
 
 #slide-7 {
-	background-color: #e4e6e5;
+	background-color: #000000;
 	color: #4e4e4e;
 	font-size: 35px;
 	line-height: 50px;
