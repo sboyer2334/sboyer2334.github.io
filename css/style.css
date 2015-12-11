@@ -263,12 +263,14 @@ body {
 	}
 	
 	#home-row-2 {
-		font-size: 25px;
+	font-size: 25px;
+	color: #FF0000;
 	}
 	
 	#home-row-2 .col-12 {
-		height: 232px;
-		padding-top: 30px;
+	height: 232px;
+	padding-top: 30px;
+	color: #FFFFFF;
 	}
 	
 	#home-row-2 .col-12 .home-hover {
@@ -303,7 +305,7 @@ body {
 }
 
 #slide-2 {
-	background-color: #1abc9c;
+	background-color: #00CC99;
 	color: #e4e6e5;
 	padding-top: 90px;
 }
